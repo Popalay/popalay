@@ -8,4 +8,4 @@ A forward-thinking developer with a thirst for new technologies
 
 ![](https://github-profile-trophy.vercel.app/?username=popalay)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=popalay&show_icons=true&locale=en" alt="popalay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=popalay&show_icons=true&locale=en&theme=dark" alt="popalay" /></p>
